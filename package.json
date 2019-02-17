@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-docker-fun-02-17-2019",
+  "version": "1.0.0",
+  "description": "Testing out nodejs in docker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanvgates/nodejs-docker-fun-02-17-2019.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanvgates/nodejs-docker-fun-02-17-2019/issues"
+  },
+  "homepage": "https://github.com/ryanvgates/nodejs-docker-fun-02-17-2019#readme",
+  "dependencies": {
+    "express": "4.16.4"
+  }
+}
